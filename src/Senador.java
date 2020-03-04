@@ -1,6 +1,10 @@
 
 public class Senador extends Legislador{
 
+	//EN CASO DE TENER OTROS ATRIBUTOS APARTE, CUANDO ES UN EXTEND DE UNA CLASE ABSTRACTA LOS ATRIBUTOS SON PROTECTED
+	//ej:
+	//protected in numero;
+	
 	public Senador() {
 		super();
 	}
